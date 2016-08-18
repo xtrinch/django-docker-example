@@ -10,3 +10,5 @@ This project is really nothing more but a basic django 1.10 skeleton with a post
 ## Run with:
 
     $ docker-compose up
+
+Run migrations and create superusers inside the running container.
